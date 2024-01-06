@@ -4,7 +4,7 @@ const CONFIG = {
     name: "taekyeom",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
-    bio: "I develop everything using node.",
+    bio: "좋은 프로덕트를 고민하고 그 과정을 기술적으로 풀어가는 것을 즐기는 개발자입니다.",
     email: "tkyeom96@gmail.com",
     linkedin: "taekyeomlee",
     github: "taekyeomlee",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `taekyeom-log`,
+      href: "https://blog.taekyeomlee.com",
     },
   ],
   // blog setting (required)
@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://blog.taekyeomlee.com",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
